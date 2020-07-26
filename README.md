@@ -1,6 +1,6 @@
 # viewer-products
 
-###Projeto construido com Express no backend e ReactJs no frontend
+**Projeto construido com Express no backend e ReactJs no frontend**
 
 ###### Backend
 
